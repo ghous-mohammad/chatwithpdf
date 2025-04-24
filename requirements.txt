@@ -2,6 +2,7 @@ langchain
 PyPDF2
 faiss-cpu
 langchain
+langchain-community
 streamlit
 openai
 tiktoken
